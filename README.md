@@ -4,7 +4,7 @@ Hi 👋 My name is Himank Jain
 Full Stack Developer
 --------------------
 
-I have been devloping web applications for 3 years , with intial years into spring boot and JSP. Then developed interest in Angular as well so now I work on Angular+Java web applications
+I have been devloping web applications, Middleware applications for 4.6 years , with intial years into spring boot and JSP. Then developed interest in Angular as well so now I work on Angular+Java web applications. I have also indulged in solving high volume data problems by utilizing Apache Spark with Scala.
 
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [Linked In](http://linkedin.com/in/himank-jain-316a75128)
